@@ -16,17 +16,17 @@
     <div class="card-body pt-sm-3 pt-0">
           
       <div class="mt-3">
-        <h6 class="mb-0">Developers</h6>
-        <p class="text-sm">Batch 2022-2023</p>
+        <h6 class="mb-0">Developer</h6>
+        <p class="text-sm">Batch 2025-2026</p>
       </div>
       <div class="card-body p-3">
       <ul class="list-group">
 <li class="list-group-item border-0 d-flex align-items-center px-0 mb-2 pt-0">
 <div class="avatar me-3">
-<a href="https://www.linkedin.com/in/larry-gomez-jr-1bb173220/" target="_blank"><img src="../../assets/img/larry.jpg" alt="kal" class="border-radius-lg shadow" ></a>
+<a href="" target="_blank"><img src="../../assets/img/johnraemanuel-1.jpg" alt="kal" class="border-radius-lg shadow" ></a>
 </div>
 <div class="d-flex align-items-start flex-column justify-content-center">
-<a href="https://www.linkedin.com/in/larry-gomez-jr-1bb173220/" target="_blank"><h6 class="mb-0 text-sm">Larry Gomez Jr</h6></a>
+<a href="https://github.com/johnraemanuel09" target="_blank"><h6 class="mb-0 text-sm">John Rae G. Manuel</h6></a>
 <p class="mb-0 text-xs">Lead Programmer</p>
 </div>
 
