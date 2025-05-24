@@ -12,7 +12,7 @@
         <div class="input-group input-group-outline">
         </div>
       </div>
-      <ul class="navbar-nav  justify-content-end">
+      <!-- <ul class="navbar-nav  justify-content-end">
         <li class="nav-item d-flex align-items-center">
           <a href="javascript:;" class="nav-link text-body font-weight-bold px-0">
             <i class="fa fa-user me-sm-1"></i>
@@ -35,7 +35,7 @@
           </a>
         </li>
 
-      </ul>
+      </ul> -->
     </div>
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered" role="document">

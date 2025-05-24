@@ -387,14 +387,14 @@ $alumni_query = "SELECT emp_status_id FROM tbl_form WHERE emp_status_id = 3";
             </div>
           </div>
 
-          <!-- <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4 mt-4">
+          <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4 mt-4">
             <div class="card">
               <div class="card-header p-3 pt-2">
                 <div class="icon icon-lg icon-shape bg-gradient-warning shadow-warning text-center border-radius-xl mt-n4 position-absolute">
                   <i class="material-icons opacity-10">groups</i>
                 </div>
                 <div class="text-end pt-1">
-                  <p class="text-sm mb-0 text-capitalize">Unemployed</p>
+                  <p class="text-sm mb-0 text-capitalize">Computer Inventory</p>
                   <?php
 $alumni_query = "SELECT emp_status_id FROM tbl_form WHERE emp_status_id = 4";
     $user_query_run = mysqli_query($db, $alumni_query);
@@ -406,7 +406,7 @@ $alumni_query = "SELECT emp_status_id FROM tbl_form WHERE emp_status_id = 4";
     }
 
     ?>
-                </div>
+                 </div>
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
@@ -416,16 +416,16 @@ $alumni_query = "SELECT emp_status_id FROM tbl_form WHERE emp_status_id = 4";
                 </button></a>
               </div>
             </div>
-          </div> -->
+          </div> 
 
-          <!-- <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4 mt-4">
+          <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4 mt-4">
             <div class="card">
               <div class="card-header p-3 pt-2">
                 <div class="icon icon-lg icon-shape bg-gradient-primary shadow-primary text-center border-radius-xl mt-n4 position-absolute">
                   <i class="material-icons opacity-10">groups</i>
                 </div>
                 <div class="text-end pt-1">
-                  <p class="text-sm mb-0 text-capitalize">CS Department</p>
+                  <p class="text-sm mb-0 text-capitalize">Bio-science Inventory</p> 
                   <?php
 $alumni_query =
         "SELECT * FROM tbl_form f
@@ -452,16 +452,16 @@ $alumni_query =
                 </button></a>
               </div>
             </div>
-          </div> -->
+          </div> 
 
-          <!-- <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4 mt-4">
+          <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4 mt-4">
             <div class="card">
               <div class="card-header p-3 pt-2">
                 <div class="icon icon-lg icon-shape bg-gradient-secondary shadow-secondary text-center border-radius-xl mt-n4 position-absolute">
                   <i class="material-icons opacity-10">groups</i>
                 </div>
                 <div class="text-end pt-1">
-                  <p class="text-sm mb-0 text-capitalize">BA Department </p>
+                  <p class="text-sm mb-0 text-capitalize">Electronics Inventory</p>
                   <?php
 $alumni_query =
         "SELECT * FROM tbl_form f
@@ -488,16 +488,16 @@ $alumni_query =
                 </button></a>
               </div>
             </div>
-          </div> -->
+          </div> 
 
-          <!-- <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4 mt-4">
+          <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4 mt-4">
             <div class="card">
               <div class="card-header p-3 pt-2">
                 <div class="icon icon-lg icon-shape bg-gradient-info shadow-info text-center border-radius-xl mt-n4 position-absolute">
                   <i class="material-icons opacity-10">groups</i>
                 </div>
                 <div class="text-end pt-1">
-                  <p class="text-sm mb-0 text-capitalize">EDUC Department</p>
+                  <p class="text-sm mb-0 text-capitalize">Stock & Physics Inventory</p>
                   <?php
 $alumni_query =
         "SELECT * FROM tbl_form f
@@ -524,16 +524,16 @@ $alumni_query =
                 </button> </a>
               </div>
             </div>
-          </div> -->
+          </div> 
 
-            <!-- <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4">
+            <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4">
             <div class="card">
               <div class="card-header p-3 pt-2">
                 <div class="icon icon-lg icon-shape bg-gradient-success shadow-success text-center border-radius-xl mt-n4 position-absolute">
                   <i class="material-icons opacity-10">groups</i>
                 </div>
                 <div class="text-end pt-1">
-                  <p class="text-sm mb-0 text-capitalize">HM / HRM Department</p>
+                  <p class="text-sm mb-0 text-capitalize">Chemical Inventory</p>
                   <?php
 $alumni_query =
         "SELECT * FROM tbl_form f
@@ -560,7 +560,7 @@ $alumni_query =
                 </button></a>
               </div>
             </div>
-          </div> -->
+          </div> 
           <!-- <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4">
             <div class="card">
               <div class="card-header p-3 pt-2">
@@ -595,7 +595,7 @@ $alumni_query =
                 </button></a>
               </div>
             </div>
-          </div> -->
+          </div>  -->
           <!-- <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4">
             <div class="card">
               <div class="card-header p-3 pt-2">
@@ -630,8 +630,8 @@ $alumni_query =
                 </button></a>
               </div>
             </div>
-          </div> -->
-          <!-- <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4">
+          </div>  -->
+           <!-- <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4 py-4">
             <div class="card">
               <div class="card-header p-3 pt-2">
                 <div class="icon icon-lg icon-shape bg-gradient-danger shadow-danger text-center border-radius-xl mt-n4 position-absolute">
@@ -665,7 +665,7 @@ $alumni_query =
                 </button></a>
               </div>
             </div>
-          </div> -->
+          </div>  -->
           </div>
 
         <?php } else if ($_SESSION['role'] == "Registrar") {
@@ -1022,7 +1022,7 @@ $alumni_query = "SELECT emp_status_id FROM tbl_form WHERE emp_status_id = 3";
                   <i class="material-icons opacity-10">groups</i>
                 </div>
                 <div class="text-end pt-1">
-                  <p class="text-sm mb-0 text-capitalize">Unemployed</p>
+                  <p class="text-sm mb-0 text-capitalize">Computer Inventory</p>
                   <?php
 $alumni_query = "SELECT emp_status_id FROM tbl_form WHERE emp_status_id = 4";
     $user_query_run = mysqli_query($db, $alumni_query);
@@ -1089,7 +1089,7 @@ $alumni_query =
                   <i class="material-icons opacity-10">groups</i>
                 </div>
                 <div class="text-end pt-1">
-                  <p class="text-sm mb-0 text-capitalize">BA Department </p>
+                  <p class="text-sm mb-0 text-capitalize">Electronics Inventory</p>
                   <?php
 $alumni_query =
         "SELECT * FROM tbl_form f
@@ -1395,7 +1395,7 @@ $alumni_query =
         </div>
       </div>
     <?php } ?>
-        
+
       <?php include "../../includes/footer.php"?>
     </div>
   </main>

@@ -79,7 +79,7 @@ if (empty($_SESSION['accept'])) {
     </div>
   </div>
   <main class="main-content  mt-0">
-    <div class="page-header align-items-start min-vh-100" style="background-image: url('../../assets/img/background.jpg')"></span>
+    <div class="page-header align-items-start min-vh-100" style="background-image: url('../../assets/img/tech-background.jpg')"></span>
       <div class="container my-auto">
         <div class="row">
           <div class="col-lg-4 col-md-8 col-12 mx-auto">

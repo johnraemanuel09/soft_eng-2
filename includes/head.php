@@ -32,7 +32,7 @@
 
   <style>
     body {
-      background-image: url(../../assets/img/background.jpg);
+      background-image: url(../../assets/img/tech-background.jpg);
       background-repeat: no-repeat !important;
       background-position-y: top !important;
       background-attachment: fixed !important;
