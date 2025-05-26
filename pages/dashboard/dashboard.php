@@ -287,7 +287,7 @@ $custodian_query = "SELECT custodian_id from tbl_custodian";
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../alumni/alumni-form.php"  target="_blank" role="button"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#"  target="_blank" role="button"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
@@ -319,7 +319,7 @@ $alumni_query = "SELECT emp_status_id FROM tbl_form WHERE emp_status_id = 1";
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../Employment_Status/full-time-list.php"  target="_blank" role="button"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#"  target="_blank" role="button"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
                 </button></a>
@@ -349,7 +349,7 @@ $alumni_query = "SELECT emp_status_id FROM tbl_form WHERE emp_status_id = 2";
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../Employment_Status/part-time-list.php"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
                 </button></a>
@@ -379,7 +379,7 @@ $alumni_query = "SELECT emp_status_id FROM tbl_form WHERE emp_status_id = 3";
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../Employment_Status/self-employed-list.php"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
                 </button></a>
@@ -410,7 +410,7 @@ $alumni_query = "SELECT emp_status_id FROM tbl_form WHERE emp_status_id = 4";
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../Employment_Status/unemployed-list.php"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
                 </button></a>
@@ -446,7 +446,7 @@ $alumni_query =
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../department-list/cs-dept.php"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button" >
+                <a href="#"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button" >
                   <span class="btn-inner--text"  >See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
                 </button></a>
@@ -482,7 +482,7 @@ $alumni_query =
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../department-list/ba-dept.php"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
                 </button></a>
@@ -518,7 +518,7 @@ $alumni_query =
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../department-list/educ-dept.php" target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#" target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
                 </button> </a>
@@ -554,7 +554,7 @@ $alumni_query =
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../department-list/hrm-dept.php"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
                 </button></a>
@@ -915,7 +915,7 @@ $custodian_query = "SELECT custodian_id from tbl_custodian";
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../alumni/alumni-form.php"  target="_blank" role="button"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#"  target="_blank" role="button"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
@@ -947,7 +947,7 @@ $alumni_query = "SELECT emp_status_id FROM tbl_form WHERE emp_status_id = 1";
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../Employment_Status/full-time-list.php"  target="_blank" role="button"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#"  target="_blank" role="button"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
                 </button></a>
@@ -1110,7 +1110,7 @@ $alumni_query =
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../department-list/ba-dept.php"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
                 </button></a>
@@ -1287,7 +1287,7 @@ $alumni_query =
               </div>
               <hr class="dark horizontal my-0">
               <div class="card-footer p-3">
-                <a href="../department-list/nurs-dept.php"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
+                <a href="#"  target="_blank"><button class="btn btn-icon btn-3 btn-dark" type="button">
                   <span class="btn-inner--text">See more</span>
                   <span class="btn-inner--icon"><i class="material-icons">visibility</i></span>
                 </button></a>
