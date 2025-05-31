@@ -187,7 +187,7 @@
                   <span class="nav-link-text ms-2 ps-1">Alumni Form Lists</span>
                 </a>
               </li>
-              <!-- <li class="nav-item ">
+              <li class="nav-item ">
                 <a class="nav-link text-white " href="../alumni-officer/officer-list.php">
                   <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
                     <i class="material-icons">
@@ -196,7 +196,7 @@
                   </div>
                   <span class="nav-link-text ms-2 ps-1">Alumni Officer Lists</span>
                 </a>
-              </li> -->
+              </li>
               
             </ul>
           </div>
@@ -273,7 +273,7 @@
         </li>
 
         <hr class="horizontal light mt-1 mb-1">
-        <!-- <li class="nav-item">
+        <li class="nav-item">
           <a data-bs-toggle="collapse" href="#applicationsExamples" class="nav-link text-white " aria-controls="applicationsExamples" role="button" aria-expanded="false">
             <i class="material-icons-round {% if page.brand == 'RTL' %}ms-2{% else %} me-2{% endif %}">apps</i>
             <span class="nav-link-text ms-2 ps-1">Add Accounts</span>
@@ -483,7 +483,7 @@
               
             </ul>
           </div>
-        </li> -->
+        </li>
 
       </ul>
       <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
