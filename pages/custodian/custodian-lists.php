@@ -100,7 +100,7 @@ while ($row = mysqli_fetch_array($listcustodian)) {
                           </div>
                           <div class="modal-footer">
                             <button type="button" class="btn bg-gradient-secondary" data-bs-dismiss="modal">Close</button>
-                            <a href="custodian-del.php?custodian_id"><button type="button" class="btn bg-gradient-danger" >Delete</button></a>
+                            <a href="custodian-del.php?custodian_id=<?php echo $id; ?>"><button type="button" class="btn bg-gradient-danger" >Delete</button></a>
                           </div>
                         </div>
                       </div>
