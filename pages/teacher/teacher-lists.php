@@ -100,7 +100,7 @@ while ($row = mysqli_fetch_array($listteacher)) {
                           </div>
                           <div class="modal-footer">
                             <button type="button" class="btn bg-gradient-secondary" data-bs-dismiss="modal">Close</button>
-                            <a href="teacher-del.php?teacher_id"><button type="button" class="btn bg-gradient-danger" >Delete</button></a>
+                            <a href="teacher-del.php?teacher_id=<?php echo $id; ?>"><button type="button" class="btn bg-gradient-danger" >Delete</button></a>
                           </div>
                         </div>
                       </div>
